@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/PedroSaldanhaa/ZippyGo-App/refs/heads/main/Logo-ZippyGo.png" alt="Banner do projeto LetsSign" width="700">
+<img src="https://raw.githubusercontent.com/PedroSaldanhaa/ZippyGo-App/refs/heads/main/Logo-ZippyGo.png" alt="Banner do projeto LetsSign" width="500">
 </p>
 <br>
 
