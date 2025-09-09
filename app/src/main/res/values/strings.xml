@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zippy GO</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic2FsZGFuaGFkb3h4IiwiYSI6ImNtZmEzMmpzOTBuOWQyam85ZXFjZnl1NDEifQ.TnWIINRvaP_7K2euRcWEUQ</string>
+</resources>
